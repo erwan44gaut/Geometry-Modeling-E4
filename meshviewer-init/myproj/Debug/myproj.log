@@ -1,0 +1,21 @@
+﻿  main.cpp
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\main.cpp(275,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\main.cpp(276,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  myFace.cpp
+  myHalfedge.cpp
+  myMesh.cpp
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(172,25): warning C4018: '<': signed/unsigned mismatch
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(178,25): warning C4018: '<': signed/unsigned mismatch
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(612,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(618,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  myVertex.cpp
+  myPoint3D.cpp
+  myVector3D.cpp
+  Generating Code...
+  LINK : G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\Debug\myproj.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4217: symbol '_sprintf_s' defined in 'MSVCRTD.lib(error.obj)' is imported by 'nfd.lib(nfd_win.obj)' in function '"int __cdecl AppendExtensionToSpecBuf(char const *,char *,unsigned int)" (?AppendExtensionToSpecBuf@@YAHPBDPADI@Z)'
+nfd.lib(nfd_common.obj) : warning LNK4099: PDB '' was not found with 'nfd.lib(nfd_common.obj)' or at ''; linking object as if no debug info
+nfd.lib(nfd_win.obj) : warning LNK4099: PDB '' was not found with 'nfd.lib(nfd_win.obj)' or at ''; linking object as if no debug info
+  myproj.vcxproj -> G:\My Drive\2ème année\Geometry Modeling\Geometry_Modeling\meshviewer-init\Debug\myproj.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

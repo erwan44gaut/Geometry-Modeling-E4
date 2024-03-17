@@ -1,0 +1,16 @@
+﻿  myMesh.cpp
+C:\Users\erwan\Downloads\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(95,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erwan\Downloads\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(101,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erwan\Downloads\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(313,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erwan\Downloads\Geometry_Modeling\meshviewer-init\myproj\myMesh.cpp(320,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+nfd.lib(nfd_win.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 865 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LINK : warning LNK4286: symbol '_sprintf_s' defined in 'MSVCRT.lib(error.obj)' is imported by 'nfd.lib(nfd_win.obj)'
+nfd.lib(nfd_common.obj) : warning LNK4099: PDB '' was not found with 'nfd.lib(nfd_common.obj)' or at ''; linking object as if no debug info
+nfd.lib(nfd_win.obj) : warning LNK4099: PDB '' was not found with 'nfd.lib(nfd_win.obj)' or at ''; linking object as if no debug info
+  myproj.vcxproj -> C:\Users\erwan\Downloads\Geometry_Modeling\meshviewer-init\Release\myproj.exe
